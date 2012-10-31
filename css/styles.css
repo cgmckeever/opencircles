@@ -1,0 +1,30 @@
+body .hero-unit h1 {
+  padding-top: 33px; }
+body .navbar-inner.orange-navbar {
+  color: white;
+  background-color: #DE6D05;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fc8b07), to(#de6d05), color-stop(0.5, #f48b16));
+  background: -moz-linear-gradient(top, #fc8b07 0%, #f48b16 50%, #de6d05 100%); }
+  body .navbar-inner.orange-navbar a.brand {
+    margin-left: 20px;
+    color: white; }
+body img {
+  max-width: 100%; }
+body ul.employers {
+  margin-left: 0;
+  list-style-type: none; }
+  body ul.employers li {
+    margin-bottom: 100px; }
+    body ul.employers li dl {
+      cursor: pointer;
+      clear: left; }
+      body ul.employers li dl dt em {
+        font-weight: normal;
+        margin-left: 10px; }
+      body ul.employers li dl dd {
+        margin-left: 0px; }
+  body ul.employers ul.friends {
+    list-style-type: none; }
+    body ul.employers ul.friends a.friend-link {
+      display: block;
+      cursor: pointer; }
